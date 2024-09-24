@@ -1,5 +1,5 @@
 ## facial-recognition_NNclassifier
-
+Utilized PCA + LDA and implemented a Nearest Neighbor Classifier for facial image recognition. Finally, the classification results were visualized to observe the performance of the classifier.
 ### 流程
 ```mermaid
 graph TD
